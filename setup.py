@@ -18,7 +18,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='python-project-setup',
+    name='project structure',
     version='0.0.1',
     author='MohamedSaber121',
     author_email='mohamedsaber12100@gmail.com',
